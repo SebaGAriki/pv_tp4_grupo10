@@ -1,9 +1,10 @@
+import '../css/Saludo.css';
 function Saludo({ nA, aA }) {
     
   return (
-    <div>
-      <h2>Este es el componente</h2>
-      <h1>Saludo a {nA} {aA}</h1>
+    <div class="saludo-container">
+      <h1 class="saludo-texto">Este es el componente</h1>
+      <h2 class="saludo-texto">Saludo a {nA} {aA}</h2>
     </div>
   )
 }
