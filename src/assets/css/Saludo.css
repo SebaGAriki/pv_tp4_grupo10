@@ -1,0 +1,9 @@
+.saludo-container {
+  background-color: #ffacac;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.saludo-texto {
+  color: #571818;
+}
