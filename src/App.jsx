@@ -1,5 +1,5 @@
 import Saludo from './assets/components/Saludo'
-
+import Ejercicio02 from './assets/components/Ejercicio02'
 function App() {
 
   // variables
@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <Saludo nA = {nombre} aA = {apellido} />
-      
+      <Ejercicio02/>
     </>
     )
 }
