@@ -1,0 +1,11 @@
+.ejercicio02Contenedor
+{
+    background-color: rgb(78, 218, 176);
+    text-align: center;
+    margin-top: '50px';
+    
+}
+
+.botones{
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
